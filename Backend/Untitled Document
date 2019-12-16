@@ -1,0 +1,11 @@
+def init_dict():
+	for i in Group.groups:
+		sched_dict[i.name]={}
+	for i in days:
+		for key in sched_dict.keys():
+			sched_dict[key][i]={}
+	for key in sched_dict.keys():
+		for key1 in sched_dict[key].keys():
+			for i in all_slots:
+				sched_dict[key][key1][i[0]+"-"+i[1]]=""
+	print(sched_dict)
