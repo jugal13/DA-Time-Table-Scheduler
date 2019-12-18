@@ -103,21 +103,21 @@ export default {
             //   href: "/subjectmapping/evenmapping"
             // }
           ]
-        },
-        {
-          title: "Generate Time Table",
-          href: "/generation",
-          items: [
-            {
-              title: "Odd Semester",
-              href: "/generatetimetable/oddtimetable"
-            }
-            // {
-            //   title: "Even Semester",
-            //   href: "/generatetimetable/eventimetable"
-            // }
-          ]
         }
+        // {
+        // title: "Generate Time Table",
+        // href: "/generation",
+        // items: [
+        //   {
+        //     title: "Odd Semester",
+        //     href: "/generatetimetable/oddtimetable"
+        //   }
+        // {
+        //   title: "Even Semester",
+        //   href: "/generatetimetable/eventimetable"
+        // }
+        // ]
+        // }
       ],
       right: true,
       rightDrawer: false,
