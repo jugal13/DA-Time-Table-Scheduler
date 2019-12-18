@@ -1,5 +1,10 @@
 # Time Table Scheduler
 
+## Dependencies
+
+1. Python3
+2. Nodejs & Npm 
+
 ## Running 
 
 ```
