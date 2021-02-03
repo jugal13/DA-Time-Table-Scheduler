@@ -32,5 +32,3 @@ npm run dev
 
 1. [Aman Malali](https://github.com/amanmalali)
 2. [Jugal D Wadhwa](https://github.com/jugalw13)
-3. [Ashwin Harrish](https://github.com/AshwinHarish)
-4. [Rushali Mohbe](https://github.com/rush17m)
