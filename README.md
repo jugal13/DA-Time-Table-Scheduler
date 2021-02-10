@@ -31,4 +31,4 @@ npm run dev
 ### Contributors
 
 1. [Aman Malali](https://github.com/amanmalali)
-2. [Jugal D Wadhwa](https://github.com/jugalw13)
+2. [Jugal D Wadhwa](https://github.com/jugal13)
