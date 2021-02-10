@@ -8,7 +8,7 @@
 ## Running 
 
 ```
-git clone https://github.com/jugalw13/DA_Time_Table_Scheduler.git
+git clone https://github.com/jugal13/DA_Time_Table_Scheduler.git
 cd DA_Time_Table_Scheduler
 ```
 
